@@ -1,8 +1,9 @@
-\# Bike Sharing Assessment
+\# Bike Sharing Assessment 
 
-\## Table of Contents \* \[Problem Statement\](#Problem-Statement) \*
-\[Steps for Model Building\](#Steps-for-Model-Building) \*
-\[Technologies Used\](#technologies-used)
+\## Table of Contents 
+\* \[Problem Statement\](#Problem-Statement) 
+\* \[Steps for Model Building\](#Steps-for-Model-Building) 
+\* \[Technologies Used\](#technologies-used)
 
 \## Problem Statement
 
